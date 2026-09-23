@@ -65,6 +65,10 @@ Important questions:
 
 Agent Runtime -> Which files? / Which model? / Safe to run? -> Frontier LLM -> Generate / modify -> Test / observe -> Done? -> Keep / drop? -> LOOP
 
+## Prior research
+
+See papers/07-prior-work.md for the 2025–2026 literature map covering agent architecture, tool selection, model routing, context engineering, runtime safety, and evidence-based termination.
+
 ## Research direction
 
 Compare three architectures:
